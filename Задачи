@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+int main() {
+  /*задача 1
+
+
+    float C;
+    printf("Enter temperature in C: ");
+    scanf("%f", &C);
+    
+    float F = (C * 9 / 5) + 32;
+    printf("%.2f F\n", F);
+  задача 2
+
+    int n;
+    printf("Введите целое число: ");
+    scanf("%d", &n);
+    printf("Число %s\n", (n % 2 == 0) ? "четное" : "нечетное");
+    Задача 3
+
+    int n;
+    printf("Введите число: ");
+    scanf("%d", &n);
+    char *result[] = {"четное", "нечетное"};
+    printf("%s\n", result[n % 2]);
+задача 4
+    int n;
+    printf("Введите n: ");
+    scanf("%d", &n);
+    int is_power = (n > 0) && ((n & (n - 1)) == 0);
+    printf("%d\n", is_power);
+    
+*/
+
+
+return 0;
+}
